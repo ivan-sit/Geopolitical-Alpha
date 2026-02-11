@@ -1,0 +1,22 @@
+# Data (large files - keep local)
+data/raw/
+data/processed/
+US_CRSP_NYSE/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Outputs
+outputs/
+*.pkl
